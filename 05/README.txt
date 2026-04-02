@@ -1,0 +1,1 @@
+Nessa atividade eu construí autômatos finitos no JFLAP para reconhecer padrões como números, identificadores e operadores. Também criei um NFA para os operadores “=” e “==” e utilizei a ferramenta para convertê-lo em um DFA equivalente. Por fim, testei os autômatos com diferentes entradas para verificar se estavam aceitando corretamente as strings esperadas.
